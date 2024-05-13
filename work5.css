@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.bCG15X5U8tj8acDWGKec-gHaEo?w=325&h=180&c=7&r=0&o=5&pid=1.7");
+    background-size: cover;
+}
+p {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    border: 10px solid black;
+
+}
+div {
+    border: 10px solid black;
+    width:100%;
+    height: 320px;
+}
+#one {
+    width: 23.5%;
+    height: 300px;
+    border: 5px solid black;
+}
+#two {
+    width: 23.5%;
+    height: 300px;
+    border: 5px solid black;
+}
+#three{
+    width: 23.5%;
+    height: 300px;
+    border: 5px solid black;
+}
+#four {
+    width: 23.5%;
+    height: 300px;
+    border: 5px solid black;
+}

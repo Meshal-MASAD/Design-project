@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.X8fmQSNd4xjQGbsKjmHeiAHaEK?w=282&h=180&c=7&r=0&o=5&pid=1.7");
+    background-size: cover;
+    border: black solid 15px;
+}
+body h1{
+    text-align: center;
+    color:aqua;
+    font-size: 100px;
+    border: blue dashed 10px;
+}
+body h2 {
+    color:black;
+    padding: 20px;
+}
+body form {
+    background-color: grey;
+    text-align: center;
+    padding:30px;
+    width: 95%;
+    height: 100px;
+}

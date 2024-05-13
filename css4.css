@@ -1,0 +1,13 @@
+body {
+    border: 10px solid black;
+    background-image: url("https://th.bing.com/th/id/OIP.bCG15X5U8tj8acDWGKec-gHaEo?w=325&h=180&c=7&r=0&o=5&pid=1.7");
+    background-size: cover;
+}
+body h1 {
+    text-align: center;
+    border: blue solid 4px;
+    background-color: rgb(235, 235, 235);
+    color:blue;
+    padding: 30px;
+
+}
